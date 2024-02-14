@@ -44,6 +44,5 @@ Aux.find_noise_harf_no_train_data(x_data,y_data,
 ```
 More use examples can be found in the main.py file. Also, the class Aux contains the docstrings for 
 all the functions mentioned above.
-# -bachelorthesis
-# thesisproject
+
 # thesisproject
